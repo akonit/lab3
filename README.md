@@ -29,6 +29,7 @@
   ```shell
   sudo chmod -R 777 lab2
   sudo chown www-data -R lab2
+  ```
 4. Накатить базу данных: в директории lab3 выполнить следующую команду:
 
   ```shell
